@@ -1,1 +1,2 @@
 NeoBank is a digital banking web application developed as a team project using Agile/Scrum. The application provides users with a simple and secure way to manage their accounts, view transactions, and perform banking operations through a responsive interface.
+The only true wisdom is in knowing you know nothing by socrates written by josaphat.
